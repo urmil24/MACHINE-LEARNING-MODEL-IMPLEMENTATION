@@ -87,6 +87,7 @@ By completing this project, users will learn:
 5) Export the model and use it in production environments (e.g., integrated into Gmail filters).
 
 **Code Execution**
+
 Since this project is implemented in Jupyter Notebook, follow the steps below to execute:
 
 1) Open Jupyter Notebook (locally or through Anaconda Navigator).
@@ -99,4 +100,21 @@ pip install numpy pandas scikit-learn
 4) Replace the CSV file path (mail_data.csv) with the correct local path.
 5) Run each cell step-by-step to see outputs.
 6) For real-time prediction, enter any email content when prompted.
+
+# output 
+![Image](https://github.com/user-attachments/assets/52782238-7e9e-45c6-a7dd-906e165c9052)
+
+![Image](https://github.com/user-attachments/assets/1a3a3ee3-c791-4a3b-978d-d2aab1696e5c)
+
+![Image](https://github.com/user-attachments/assets/911b9cfd-adb5-4a06-9e42-29d0a50e0e91)
+
+![Image](https://github.com/user-attachments/assets/a8267ceb-e62e-4699-af59-dff6313b090b)
+
+![Image](https://github.com/user-attachments/assets/60a189d8-7b33-4d97-9f50-8cf3f81ad157)
+
+![Image](https://github.com/user-attachments/assets/a64c9978-86f7-40cb-ac1c-201479c7fb3e)
+
+![Image](https://github.com/user-attachments/assets/592ae821-9757-47f2-8f61-e4a5202fc217)
+
+![Image](https://github.com/user-attachments/assets/5bdbfbf8-9d0f-417c-bee7-0a261a4498aa)
 
