@@ -16,6 +16,7 @@
 
 # Spam Email Detection using Scikit-learn
 **Project Overview**
+
 This project, CREATE A PREDICTIVE MODEL USING SCIKIT-LEARN TO CLASSIFY OR PREDICT OUTCOMES FROM A DATASET (E.G., SPAM EMAIL DETECTION), demonstrates how to build a machine learning model using Scikit-learn to 
 identify whether an incoming email is spam or ham (not spam).
 By leveraging real-world labeled data and using text classification techniques, this model converts raw email messages into numerical features and predicts the likelihood of an email being spam. This helps in 
@@ -23,6 +24,7 @@ automating email filtering systems, improving user experience, and enhancing cyb
 The entire project is implemented in Jupyter Notebook, which provides an interactive coding environment perfect for data preprocessing, training, evaluation, and testing machine learning models.
 
 **Tools & Technologies Used**
+
 1. Programming Language
 Python 3: Used for all data manipulation, training, and evaluation tasks.
 
@@ -36,6 +38,7 @@ TfidfVectorizer: Used for converting text data to feature vectors.
 Jupyter Notebook: A powerful, browser-based Python editor ideal for ML and data science experiments.
 
 **Workflow**
+
 Step 1: Loading and Preparing the Data
 The CSV file mail_data.csv is loaded using pandas.read_csv().
 Null values are replaced with empty strings to handle missing entries.
@@ -64,6 +67,7 @@ Step 7: Real-Time Prediction
 A system is built to take user input (email message), transform it using the same vectorizer, and predict whether it’s spam or ham.
 
 **Learning Objectives**
+
 By completing this project, users will learn:
 
 1) How to clean and prepare textual data for machine learning.
@@ -74,12 +78,14 @@ By completing this project, users will learn:
 6) Implementing real-time predictions for user input.
 
 **Use Cases and Applications**
+
 1) Email Filtering Systems: Automatically detect and filter spam messages.
 2) Customer Support Bots: Distinguish spam inputs in live chat.
 3) Security Tools: Detect phishing or unsolicited messages in an enterprise environment.
 4) Text Classification Projects: Serve as a base for broader NLP applications like sentiment analysis.
 
 **Future Enhancements**
+
 1) Add a web interface using Flask or Streamlit.
 2) Train with a larger and more balanced dataset.
 3) Compare with other models like Naive Bayes, SVM, or Random Forest.
